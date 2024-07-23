@@ -1,0 +1,63 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependência do NuGet
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+packages/
+
+# Arquivos temporários gerados pelo Visual Studio
+*.vs/
+.vscode/
+
+# Arquivos de configuração do Visual Studio
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de backup do Rider
+.idea/
+
+# Arquivos de build do Rider
+*.sln.iml
+
+# Arquivos de build do Rider
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/jsTemplates.xml
+.idea/shelf
+
+# Logs e arquivos de exceção
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.user
+*.iws
+*.dbmdl
+
+# Arquivos de cache e análise
+*.cache
+*.orig
+*.bak
+*.tmp
+*.mdf
+*.ldf
+
+# Arquivos de análise de código
+*.suo
+*.userosscache
+
+# Outros
+*.vsidx
